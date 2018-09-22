@@ -1,2 +1,2 @@
 # TGE
-Modele statystyczne i uczenia maszynowego - prognozowanie cen na rynku Towarowej Giełdy Energii
+Modele statystyczne i uczenia maszynowego - prognozowanie cen na Rynku Dnia Następnego Towarowej Giełdy Energii
